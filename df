@@ -1,0 +1,36 @@
+[33mcommit 1e4a127565da287aafec9e1395b93b28de93ff15[m[33m ([m[1;36mHEAD -> [m[1;32mdatabase[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 81f777d d222483
+Author: Carolyn Binns <cbinns@cs.ualberta.ca>
+Date:   Tue Jan 9 18:08:21 2018 -0700
+
+    merged online and local file
+
+[33mcommit 81f777d313913541213dc13bf4cdbc039da40776[m
+Author: Carolyn Binns <cbinns@cs.ualberta.ca>
+Date:   Tue Jan 9 18:03:15 2018 -0700
+
+    test created locally
+
+[33mcommit d222483e6568d854fdc80afe493637d1d6a74dbc[m
+Author: cbinns <cbinns@ualberta.ca>
+Date:   Tue Jan 9 17:59:12 2018 -0700
+
+    test created online
+
+[33mcommit 2cda1c64804f717136ce6174081467ddbb609b5e[m
+Author: Carolyn Binns <cbinns@cs.ualberta.ca>
+Date:   Tue Jan 9 17:56:08 2018 -0700
+
+    local changes added
+
+[33mcommit 985a8c1b0969e6284eda63887687daf3c80f5f12[m
+Author: Carolyn Binns <cbinns@cs.ualberta.ca>
+Date:   Tue Jan 9 17:42:14 2018 -0700
+
+    First file added
+
+[33mcommit a1c9d32333f1af4e8cd1f4dc292db536d04928f5[m
+Author: cbinns <cbinns@ualberta.ca>
+Date:   Tue Jan 9 17:33:48 2018 -0700
+
+    Create README.md
